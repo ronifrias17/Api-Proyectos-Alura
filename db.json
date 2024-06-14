@@ -1,5 +1,5 @@
 {
-    "categorias": [
+    "categorias-petShoop": [
         {
             "id": "bienestar",
             "nombre": "bienestar",
@@ -17,7 +17,7 @@
             ]
         }
     ],
-    "posts": [
+    "posts-petShoop": [
         {
             "id": 1,
             "title": "Baño en perros",
@@ -76,7 +76,7 @@
         }
     ],
 
-"fotos": [  
+"fotos-SpaceApp": [  
     {
     "titulo": "Gran Nube de Magallanes",
     "fuente": "Alura Space",
