@@ -146,7 +146,7 @@
     "path": "/img/galeria/foto-10.png",
     "id": "10",
     "tagId": 1
-  },
+  }],
     "videos-alura-cinema":[
    {
         "id": 1,
@@ -173,5 +173,5 @@
         "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
     }
 ]
-]
+
 }
