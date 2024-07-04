@@ -255,6 +255,15 @@
            "descripcion": "Video de explicacion",
            "id": "9"
         }
+        {
+           "titulo": "¿Qué son",
+           "color":"#ffba05",
+           "categoria" : "innovacion y gestion",
+           "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
+           "video":"https://youtu.be/vhwspfvI52k?si=uijP36KIw0ZH8E58",
+           "descripcion": "Video de explicacion",
+           "id": "10"
+        }
     ]
 
 }
