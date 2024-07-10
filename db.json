@@ -193,13 +193,32 @@
            "id": "2"
         },
         {
+        {
+           "titulo": "¿Que es javascript?",
+           "color":"#6bd1ff",
+           "categoria" : "frontend",
+           "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
+           "video":"https://youtu.be/GJfOSoaXk4s?si=rgFfMEauU1nNHSI1",
+           "descripcion": "Video de explicacion de javascript",
+           "id": "3"
+        },
+        {
+           "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+           "color":"#6bd1ff",
+           "categoria" : "frontend",
+           "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
+           "video":"https://youtu.be/UuAX5azcvDQ?si=HYewq0iRjFH-WO4c",
+           "descripcion": "Video de explicacion de como usar figma",
+           "id": "4"
+        },
+        {
            "titulo": "Equipo Front End",
            "color":"#6bd1ff",
            "categoria" : "frontend",
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/rpvrLaBQwgg?si=YRaQ27fcgMtprT07",
            "descripcion": "Video de explicacion del equipo frontEnd de Alura",
-           "id": "3"
+           "id": "5"
         },
         {
            "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
@@ -208,7 +227,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/Z024LSCMqFk?si=N0xalYVzejEy2Cve",
            "descripcion": "Video de explicacion de el poder del backend en el desarrollo web",
-           "id": "4"
+           "id": "6"
         },
         {
            "titulo": "Desmistificando el Back-End",
@@ -217,7 +236,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://www.youtube.com/live/LLt7FreeHfQ?si=k2v6ueCtWi_AIEiT",
            "descripcion": "Video de explicacion",
-           "id": "5"
+           "id": "7"
         },
         {
            "titulo": "Simplificando el Back End",
@@ -226,7 +245,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/XuSXJ9DUcvY?si=PidKKOuHVglRRawv",
            "descripcion": "Video de explicacion",
-           "id": "6"
+           "id": "8"
         },
         {
            "titulo": "Entendiendo la importancia de Linkedin",
@@ -235,7 +254,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/N9vxfMJEyYg?si=CwhWwDNCoOVnXULg",
            "descripcion": "Video de explicacion",
-           "id": "7"
+           "id": "9"
         },
         {
            "titulo": "Técnicas para mejorar tu aprendizaje",
@@ -244,7 +263,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/KSyqCUAr2CU?si=gf1JO9UraPQFowag",
            "descripcion": "Video de explicacion",
-           "id": "8"
+           "id": "10"
         },
         {
            "titulo": "¿Qué son las Soft Skills?",
@@ -253,7 +272,7 @@
            "imagen" : "https://avatars.githubusercontent.com/u/128334855?v=4",
            "video":"https://youtu.be/vhwspfvI52k?si=uijP36KIw0ZH8E58",
            "descripcion": "Video de explicacion",
-           "id": "9"
+           "id": "11"
         }
     ]
 
